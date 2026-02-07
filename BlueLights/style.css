@@ -1,0 +1,62 @@
+x#container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+  }
+  
+  #map {
+    height: 100%;
+    height: 100vh; /* This forces it to take up the full screen */
+    background-color: #f0f0f0; /* Light grey so you can see if the div exists */
+  }
+  
+  #find-btn {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 5;
+    background-color: #ceb888; /* Purdue Gold */
+    color: black;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  }
+  
+  #find-btn:hover {
+    background-color: #000000;
+    color: white;
+  }
+
+  #sidebar {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 280px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    z-index: 10;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  #sidebar h3 {
+    margin: 0 0 10px 0;
+    color: #ceb888; /* Purdue Gold */
+  }
+  
+  .time-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #202124;
+  }
+  
+  .dist-text {
+    color: #70757a;
+    margin-bottom: 15px;
+  }

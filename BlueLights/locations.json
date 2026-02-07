@@ -1,0 +1,12 @@
+[
+    {"name": "WALC - North Entrance Pedestal", "latitude": 40.4282, "longitude": -86.9138, "type": "Outdoor Pedestal"},
+    {"name": "WALC - South Entrance Pedestal", "latitude": 40.4278, "longitude": -86.9137, "type": "Outdoor Pedestal"},
+    {"name": "Bell Tower West Path", "latitude": 40.4271, "longitude": -86.9139, "type": "Outdoor Pedestal"},
+    {"name": "Bell Tower East Path", "latitude": 40.4272, "longitude": -86.9135, "type": "Outdoor Pedestal"},
+    {"name": "Potter Center North Path", "latitude": 40.4275, "longitude": -86.9121, "type": "Outdoor Pedestal"},
+    {"name": "CL50 Main Entrance", "latitude": 40.4265, "longitude": -86.9129, "type": "Outdoor Pedestal"},
+    {"name": "Elliott Hall Front Lawn", "latitude": 40.4289, "longitude": -86.9148, "type": "Outdoor Pedestal"},
+    {"name": "Hovde Hall North Path", "latitude": 40.4282, "longitude": -86.9144, "type": "Outdoor Pedestal"},
+    {"name": "MSEE Entrance Path", "latitude": 40.4293, "longitude": -86.9128, "type": "Outdoor Pedestal"},
+    {"name": "Armstrong - Stadium Mall", "latitude": 40.4308, "longitude": -86.9145, "type": "Outdoor Pedestal"}
+  ]
