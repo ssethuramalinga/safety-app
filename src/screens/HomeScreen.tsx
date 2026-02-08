@@ -85,7 +85,7 @@ export default function HomeScreen() {
               title={s.title}
               subtitle={s.subtitle}
               quickStart={false}
-              comingSoon={s.comingSoonBadge}
+            
               onPress={() => navigation.navigate("Call", { scenarioKey: s.key })}
             />
           ))}

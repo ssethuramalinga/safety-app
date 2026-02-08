@@ -165,21 +165,7 @@ export default function FakeCallScreen() {
           </Text>
 
           {/* subtle “no audio” label (kept discreet) */}
-          {!scenario.hasAudio && (
-            <View
-              style={{
-                marginTop: 10,
-                backgroundColor: "rgba(255,255,255,0.08)",
-                paddingHorizontal: 12,
-                paddingVertical: 6,
-                borderRadius: 999,
-              }}
-            >
-              <Text style={{ color: "rgba(255,255,255,0.7)", fontWeight: "700" }}>
-                Practice screen (audio coming soon)
-              </Text>
-            </View>
-          )}
+     
         </View>
 
         {/* SAY prompt overlay with countdown timer */}

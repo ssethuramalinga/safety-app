@@ -77,7 +77,7 @@ export const SCENARIOS: Scenario[] = [
   {
     key: "bar",
     title: "At a Bar",
-    subtitle: "Tap to open the call screen",
+    subtitle: "Tap to start the call screen",
     quickStart: false,
     hasAudio: false,
     ringEndsSec: 10,
@@ -87,7 +87,7 @@ export const SCENARIOS: Scenario[] = [
   {
     key: "public_transport",
     title: "Public Transportation",
-    subtitle: "Tap to open the call screen",
+    subtitle: "Tap to start the call screen",
     quickStart: false,
     hasAudio: false,
     ringEndsSec: 10,
@@ -97,7 +97,7 @@ export const SCENARIOS: Scenario[] = [
   {
     key: "campus",
     title: "On Campus",
-    subtitle: "Tap to open the call screen",
+    subtitle: "Tap to start the call screen",
     quickStart: false,
     hasAudio: false,
     ringEndsSec: 10,
@@ -107,7 +107,7 @@ export const SCENARIOS: Scenario[] = [
   {
     key: "first_date",
     title: "First Date Exit",
-    subtitle: "Tap to open the call screen",
+    subtitle: "Tap to start the call screen",
     quickStart: false,
     hasAudio: false,
     ringEndsSec: 10,
